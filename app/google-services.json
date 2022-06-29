@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "401579333384",
-    "project_id": "lugares-af0be",
-    "storage_bucket": "lugares-af0be.appspot.com"
+    "project_number": "971374206975",
+    "project_id": "paises-eebba",
+    "storage_bucket": "paises-eebba.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:401579333384:android:7eea1b3de7d2ef769cbebd",
+        "mobilesdk_app_id": "1:971374206975:android:7037e907cae1f43d5811ca",
         "android_client_info": {
-          "package_name": "com.lugares"
+          "package_name": "com.paises"
         }
       },
       "oauth_client": [
         {
-          "client_id": "401579333384-slqkdn3a3kb1ngikth3tm9l9886n46so.apps.googleusercontent.com",
+          "client_id": "971374206975-2a4buu3jj3t4ciifoed9g23bvsl3ith2.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDNERpj_3HH-4dJtHLQ-cEQM0O1xT_c7Dc"
+          "current_key": "AIzaSyCFuHLy1udl6RIb40IJafA1xeCAGsu0VPE"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "401579333384-slqkdn3a3kb1ngikth3tm9l9886n46so.apps.googleusercontent.com",
+              "client_id": "971374206975-2a4buu3jj3t4ciifoed9g23bvsl3ith2.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

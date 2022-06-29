@@ -8,6 +8,7 @@
         <entry key="..\:/Android Projects - copia/app/src/main/res/drawable/ic_logoff.xml" value="0.2835" />
         <entry key="..\:/Android Projects - copia/app/src/main/res/layout/activity_main.xml" value="0.26510416666666664" />
         <entry key="..\:/Android Projects - copia/app/src/main/res/layout/activity_principal.xml" value="0.2791666666666667" />
+        <entry key="..\:/Android Projects - copia/app/src/main/res/layout/content_principal.xml" value="0.2791666666666667" />
         <entry key="..\:/Android Projects - copia/app/src/main/res/layout/fragment_add_lugar.xml" value="0.2791666666666667" />
         <entry key="..\:/Android Projects - copia/app/src/main/res/layout/fragment_update_lugar.xml" value="0.26510416666666664" />
         <entry key="..\:/Android Projects - copia/app/src/main/res/layout/lugar_fila.xml" value="0.2791666666666667" />
@@ -23,6 +24,12 @@
         <entry key="..\:/Android Projects/app/src/main/res/layout/fragment_lugar.xml" value="0.27239583333333334" />
         <entry key="..\:/Android Projects/app/src/main/res/menu/activity_main_drawer.xml" value="0.23945578231292516" />
         <entry key="..\:/Android Projects/app/src/main/res/menu/principal.xml" value="0.3625" />
+        <entry key="..\:/Movil/Paises/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Movil/Paises/app/src/main/res/layout/fragment_add_rename.xml" value="0.3625" />
+        <entry key="..\:/Movil/Paises/app/src/main/res/layout/fragment_lugar.xml" value="0.2791666666666667" />
+        <entry key="..\:/Movil/Paises/app/src/main/res/layout/fragment_pais.xml" value="0.3625" />
+        <entry key="..\:/Movil/Paises/app/src/main/res/layout/nav_header_principal.xml" value="0.2791666666666667" />
+        <entry key="..\:/Movil/Paises/app/src/main/res/menu/activity_main_drawer.xml" value="0.2791666666666667" />
       </map>
     </option>
   </component>
