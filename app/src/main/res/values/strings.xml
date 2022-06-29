@@ -22,8 +22,9 @@
     <string name="msg_correo">Correo (abc@abc.com)</string>
     <string name="msg_telefono">Teléfono (9999-99999)</string>
     <string name="msg_web">Sitio Web</string>
-    <string name="bt_agregar">Agregar</string>
-    <string name="bt_actualizar">Actualizar</string>
+    <string name="bt_agregar">Agregar Lugar</string>
+    <string name="bt_actualizar">Actualizar Lugar</string>
+    <string name="delete">Elimina Lugar</string>
     <string name="lugarAdded">Lugar agregado</string>
     <string name="noData">Faltan datos</string>
 
@@ -39,6 +40,9 @@
     <string name="msg_mensaje_correo">Le escribo este correo para</string>
     <string name="msg_datos">Faltan datos</string>
     <string name="error">Error</string>
+    <string name="seguroBorrar">¿Está segur de eliminar?</string>
+    <string name="si">Sí</string>
+    <string name="no">No</string>
 
 
 </resources>
