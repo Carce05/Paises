@@ -27,7 +27,7 @@ data class Lugar(
     val altura: Double?,
     @ColumnInfo(name = "rutaAudio")
     val rutaAudio: String?,
-    @ColumnInfo(name = "rutaAudio")
+    @ColumnInfo(name = "rutaImagen")
     val rutaImagen: String?,
 
 ) : Parcelable
